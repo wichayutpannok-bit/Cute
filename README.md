@@ -1,6 +1,6 @@
 # 💖 ส่งมาขอความเห็นจายยยยย 💖
 ## 🎮 วิธีเล่น
 
-1. เข้าไปที่ [จีบเธอ Game](https://axiostq.github.io/game-y-n/)
+1. เข้าไปที่ [ลองดูๆ Game](https://github.com/wichayutpannok-bit/Cute.git)
 
 ถ้าพี่ลองกดปุ่ม ... จะเกิดอะไรขึ้นน้าาาาาาา 😉

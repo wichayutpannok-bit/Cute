@@ -1,6 +1,6 @@
 # 💖 ส่งมาขอความเห็นจายยยยย 💖
 ## 🎮 วิธีเล่น
 
-1. เข้าไปที่ [ลองดูๆ Game](https://github.com/wichayutpannok-bit/Cute.git)
+1. เข้าไปที่ [ลองดูๆ Game](https://wichayutpannok-bit.github.io/Cute/)
 
 ถ้าพี่ลองกดปุ่ม ... จะเกิดอะไรขึ้นน้าาาาาาา 😉
